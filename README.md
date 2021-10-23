@@ -6,7 +6,7 @@ It covers the following topics:
 - [X] Python Basics
 - [X] Python Data Structures
 - [X] Python Web Scraping
-- [ ] Python Databases
-- [ ] An additional Python project
+- [X] Python Databases
+- [ ] Additional topics
 
 The notes have been taken using [Obsidian](https://obsidian.md), which allows you to enter code and pictures alongside your notes.
